@@ -65,3 +65,6 @@ persist.vendor.sensors.enable.mag_filter=true
 
 # Thermal
 vendor.sys.thermal.data.path=/data/vendor/thermal/
+
+#Settings
+ro.product.device=lisa
